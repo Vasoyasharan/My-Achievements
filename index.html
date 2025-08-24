@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Certificates & Badges</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="profile">
+        <img src="assets/images/sharan1.jpg" alt="Profile" class="profile-img" />
+        <div>
+          <h1>Sharan Vasoya</h1>
+          <p>Cybersecurity Enthusiast | Red Team Learner | Ethical Hacking & Web Security</p>
+        </div>
+      </div>
+      <div class="toolbar">
+        <input type="text" id="search" placeholder="Search..." />
+        <select id="org-filter">
+          <option value="">All Orgs</option>
+        </select>
+        <button id="theme-toggle" aria-label="Toggle dark/light theme">🌙</button>
+        <button id="export">Export</button>
+        <input type="file" id="import" style="display: none" />
+        <button id="import-btn">Import</button>
+      </div>
+    </header>
+     <section class="about">
+      <h2>About Me</h2>
+      <p>
+        Welcome to my digital portfolio! I’m Sharan, a passionate Cybersecurity Enthusiast and Developer. This space is a collection of my learning journey, certifications, and hands-on achievements across cybersecurity, ethical hacking, programming, and emerging technologies.</br></br>
+
+I believe in continuous learning and staying ahead in the ever-evolving cyber world. These certificates represent not just milestones, but also my dedication to mastering security, development, and problem-solving skills.</br></br>
+      </p>
+    </section>
+
+    <main id="cert-container"></main>
+    <button id="load-more" class="load-more">Load More</button>
+
+    <div id="fullscreen-modal" tabindex="-1" aria-modal="true" role="dialog">
+      <img src alt="certificate" />
+    </div>
+
+   
+
+    <script src="script.js"></script>
+  </body>
+</html>
