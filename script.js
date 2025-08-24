@@ -3,285 +3,284 @@
         {
           title: "Fortinet Certified Fundamentals in CyberSecurity (FCF)",
           provider: "Fortinet",
-          image: "./assets/images/FCF.png",
+          image: "./assets/images/fcf.png",
         },
         {
           title: "CISCO Intro to CS",
           provider: "Cisco",
-          image: "./assets/images/CISCO CS certi.png",
+          image: "./assets/images/cisco_cs_certi.png",
         },
         {
           title: "OSNIT",
           provider: "Security Blue Team",
-          image: "./assets/images/OSNIT_SecurityBlueteam.png",
+          image: "./assets/images/osnit_securityblueteam.png",
         },
         {
           title: "FCF Technical intro to CyberSecurity 2.0",
           provider: "Fortinet",
-          image: "./assets/images/FCF- tech 2.0.png",
+          image: "./assets/images/fcf-_tech_2.0.png",
         },
         {
           title: "FCF Intro to the Threat Landscape 3.0",
           provider: "Fortinet",
-          image: "./assets/images/FCF_threat 3.0.png",
+          image: "./assets/images/fcf_threat_3.0.png",
         },
         {
           title: "Datacom Job Stimulation Certificate",
           provider: "Datacom x Forge",
-          image: "./assets/images/Datacom_certi.png",
+          image: "./assets/images/datacom_certi.png",
         },
         {
           title: "Deloitte Job Stimulation Certificate",
           provider: "Deloitte x Forge",
-          image: "./assets/images/Deloitte_certi.png",
+          image: "./assets/images/deloitte_certi.png",
         },
         {
           title: "Mastercard Job Stimulation Certificate",
           provider: "Mastercard",
-          image: "./assets/images/Mastercard_Certificate.png",
+          image: "./assets/images/mastercard_certificate.png",
         },
         {
           title: "Reliance CS Associate Certi Program",
           provider: "Reliance",
-          image: "./assets/images/RelainceCS.png",
+          image: "./assets/images/relaincecs.png",
         },
         {
           title: "TechMahindra x NSDC Certificate CS",
           provider: "TechMahindra x NSDC",
-          image: "./assets/images/TechMahindra Certi.png",
+          image: "./assets/images/techmahindra_certi.png",
         },
         {
           title: "Reliance x NSDC CS Associate Certi Program",
           provider: "Reliance x NSDC",
-          image: "./assets/images/RelianceNDSCCS.png",
+          image: "./assets/images/reliancendsccs.png",
         },
         {
           title: "Hydra Expert",
           provider: "Udemy",
-          image: "./assets/images/HydraExpert.jpg",
+          image: "./assets/images/hydraexpert.jpg",
         },
         {
           title: "Email Security",
           provider: "Udemy",
-          image: "./assets/images/Udemy Email Security.jpg",
+          image: "./assets/images/udemy_email_security.jpg",
         },
         {
           title: "Command Injection",
           provider: "Udemy",
-          image: "./assets/images/Udemy Ethycal Hacking : Command Injection.jpg",
+          image: "./assets/images/udemy_ethycal_hacking___command_injection.jpg",
         },
         {
           title: "Mastering Kali Linux",
           provider: "Udemy",
-          image: "./assets/images/Udemy Mastering Kali Linux.jpg",
+          image: "./assets/images/udemy_mastering_kali_linux.jpg",
         },
         {
           title: "Digital Hidden Secrets (Steganography)",
           provider: "Udemy",
-          image: "./assets/images/Data Hiding.jpg",
+          image: "./assets/images/data_hiding.jpg",
         },
         {
           title: "Linux Privilege Escalation",
           provider: "Udemy",
-          image:
-            "./assets/images/Udemy Ethical Hacking: Linux Privilege Escalation.jpg",
+          image: "./assets/images/udemy_ethical_hacking__linux_privilege_escalation.jpg",
         },
         {
           title: "Metasploit",
           provider: "Udemy",
-          image: "./assets/images/Udemy Ethical Hacking: Metasploit.jpg",
+          image: "./assets/images/udemy_ethical_hacking__metasploit.jpg",
         },
         {
           title: "Introduction To Cyber Security",
           provider: "VI Foundation",
-          image: "./assets/images/Introduction To Cyber Certi.jpg",
+          image: "./assets/images/introduction_to_cyber_certi.jpg",
         },
         {
           title: "OSINT: Data Gathering",
           provider: "Udemy",
-          image: "./assets/images/Udemy OSNIT: Data Gathering.jpg",
+          image: "./assets/images/udemy_osnit__data_gathering.jpg",
         },
         {
           title: "Password Cracking Office Files",
           provider: "Udemy",
-          image: "./assets/images/Udemy Password Cracking Office Files.jpg",
+          image: "./assets/images/udemy_password_cracking_office_files.jpg",
         },
         {
           title: "Phishing",
           provider: "Udemy",
-          image: "./assets/images/Udemy Phishing Attack Prevention.jpg",
+          image: "./assets/images/udemy_phishing_attack_prevention.jpg",
         },
         {
           title: "Git & Github with Markdown",
           provider: "Udemy",
-          image: "./assets/images/Git_Github_Markdown.jpg",
+          image: "./assets/images/git_github_markdown.jpg",
         },
         {
           title: "Intro to CS Badge",
           provider: "Cisco",
-          image: "./assets/images/Intro to cs Badge.png",
+          image: "./assets/images/intro_to_cs_badge.png",
         },
         {
           title: "Public Speaking",
           provider: "Udemy",
-          image: "./assets/images/Udemy Public Speaking Certificate.jpg",
+          image: "./assets/images/udemy_public_speaking_certificate.jpg",
         },
         {
           title: "Prompt Engineering Mastery",
           provider: "Udemy",
-          image: "./assets/images/Udemy Prompt Engineering Mastery Certificate.jpg",
+          image: "./assets/images/udemy_prompt_engineering_mastery_certificate.jpg",
         },
         {
           title: "Linux Antivirus Essentials",
           provider: "Udemy",
-          image: "./assets/images/LInux Antivirus Essentials.jpg",
+          image: "./assets/images/linux_antivirus_essentials.jpg",
         },
         {
           title: "Linux Intrusion Essentials",
           provider: "Udemy",
-          image: "./assets/images/Linux Intrusion Essentials.jpg",
+          image: "./assets/images/linux_intrusion_essentials.jpg",
         },
         {
           title: "Malware Secrets",
           provider: "Udemy",
-          image: "./assets/images/Malware Secrets.jpg",
+          image: "./assets/images/malware_secrets.jpg",
         },
         {
           title: "Network Exploitation Basics",
           provider: "Udemy",
-          image: "./assets/images/Network Explotions Basics.jpg",
+          image: "./assets/images/network_explotions_basics.jpg",
         },
         {
           title: "AI Chatbot",
           provider: "Udemy",
-          image: "./assets/images/Udemy AI CHATBOT.jpg",
+          image: "./assets/images/udemy_ai_chatbot.jpg",
         },
         {
           title: "Android Hacking",
           provider: "Udemy",
-          image: "./assets/images/Udemy Android Hacking.jpg",
+          image: "./assets/images/udemy_android_hacking.jpg",
         },
         {
           title: "Anti Virus",
           provider: "Udemy",
-          image: "./assets/images/Udemy Anti Virus.jpg",
+          image: "./assets/images/udemy_anti_virus.jpg",
         },
         {
           title: "Cyber Security: Secrets Exposed",
           provider: "Udemy",
-          image: "./assets/images/Udemy Cyber-Security:Secret Exposed.jpg",
+          image: "./assets/images/udemy_cyber-security_secret_exposed.jpg",
         },
         {
           title: "Hackers Toolkit",
           provider: "Udemy",
-          image: "./assets/images/Udemy Hackers Toolkit.jpg",
+          image: "./assets/images/udemy_hackers_toolkit.jpg",
         },
         {
           title: "Hacker Methodology",
           provider: "Udemy",
-          image: "./assets/images/Udemy Ethical Hacking: Hacker Methodology.jpg",
+          image: "./assets/images/udemy_ethical_hacking__hacker_methodology.jpg",
         },
         {
           title: "Ethically Hack the Planet Part 1",
           provider: "Udemy",
-          image: "./assets/images/Udemy Ethical Hacking Certificate.jpg",
+          image: "./assets/images/udemy_ethical_hacking_certificate.jpg",
         },
         {
           title: "Ethically Hack the Planet Part 2",
           provider: "Udemy",
-          image: "./assets/images/Udemy Ethiclly hacking Part 2.jpg",
+          image: "./assets/images/udemy_ethiclly_hacking_part_2.jpg",
         },
         {
           title: "Ethically Hack the Planet Part 3",
           provider: "Udemy",
-          image: "./assets/images/Udemy Ethical Hacking Part 3.jpg",
+          image: "./assets/images/udemy_ethical_hacking_part_3.jpg",
         },
         {
           title: "Ethically Hack the Planet Part 4",
           provider: "Udemy",
-          image: "./assets/images/Udemy Ethically Hacking Part 4.jpg",
+          image: "./assets/images/udemy_ethically_hacking_part_4.jpg",
         },
         {
           title: "Cyber Security: Web Enumeration",
           provider: "Udemy",
-          image: "./assets/images/Udemy Cyber Security : Web Eneumeration.jpg",
+          image: "./assets/images/udemy_cyber_security___web_eneumeration.jpg",
         },
         {
           title: "Ethical Hacking: Crypto 101",
           provider: "Udemy",
-          image: "./assets/images/Udemy Ethical Hacking: Crypto 101.jpg",
+          image: "./assets/images/udemy_ethical_hacking__crypto_101.jpg",
         },
         {
           title: "Ethical Hacking: File Inclusion",
           provider: "Udemy",
-          image: "./assets/images/Udemy Ethical Hacking : File Inclusion.jpg",
+          image: "./assets/images/udemy_ethical_hacking___file_inclusion.jpg",
         },
         {
           title: "Hack Network Pc!",
           provider: "Udemy",
-          image: "./assets/images/Udemy Hack that Network!.jpg",
+          image: "./assets/images/udemy_hack_that_network!.jpg",
         },
         {
           title: "Linux Desktop Automation",
           provider: "Udemy",
-          image: "./assets/images/Udemy Linux Desktop Automation.jpg",
+          image: "./assets/images/udemy_linux_desktop_automation.jpg",
         },
         {
           title: "Network Mastery For Ethical Hacking",
           provider: "Udemy",
-          image: "./assets/images/Udemy Network Mastery For Ethical Hacking.jpg",
+          image: "./assets/images/udemy_network_mastery_for_ethical_hacking.jpg",
         },
         {
           title: "Setup Ubuntu Server",
           provider: "Udemy",
-          image: "./assets/images/Udemy Setup Ubuntu Server.jpg",
+          image: "./assets/images/udemy_setup_ubuntu_server.jpg",
         },
         {
           title: "Windows Endpoint Security",
           provider: "Udemy",
-          image: "./assets/images/Udemy Windows Endpoint Security.jpg",
+          image: "./assets/images/udemy_windows_endpoint_security.jpg",
         },
         {
           title: "Windows CMD Mastery",
           provider: "Udemy",
-          image: "./assets/images/Windows CMD Mastery.jpg",
+          image: "./assets/images/windows_cmd_mastery.jpg",
         },
         {
           title: "ReactJS",
           provider: "Udemy",
           image:
-            "./assets/images/Udemy Complete ReactJs Course For Beginners.jpg",
+            "./assets/images/udemy_complete_reactjs_course_for_beginners.jpg",
         },
         {
           title: "React Crash Course with Mini Projects",
           provider: "Udemy",
           image:
-            "./assets/images/Udemy React Crash Course with Mini Projects.jpg",
+            "./assets/images/udemy_react_crash_course_with_mini_projects.jpg",
         },
         {
           title: "JavaScript",
           provider: "Udemy",
-          image: "./assets/images/Udemy JS.jpg",
+          image: "./assets/images/udemy_js.jpg",
         },
         {
           title: "TypeScript",
           provider: "Udemy",
-          image: "./assets/images/Udemy TypeScript for Beginners.jpg",
+          image: "./assets/images/udemy_typescript_for_beginners.jpg",
         },
         {
           title: "CSS & JavaScript",
           provider: "Udemy",
-          image: "./assets/images/Udemy CSS,JS.jpg",
+          image: "./assets/images/udemy_css_js.jpg",
         },
         {
           title: "Css Certificate",
           provider: "Udemy",
-          image: "./assets/images/Css Certificate.jpeg",
+          image: "./assets/images/css_certificate.jpeg",
         },
         {
           title: "GitOps Certificate",
           provider: "The Linux Foundation",
-          image: "./assets/images/GitOps certificate.jpg",
+          image: "./assets/images/gitops_certificate.jpg",
         },
       ];
 
@@ -301,7 +300,7 @@ let currentPage = 1;
 function populateFilters() {
   const orgs = [...new Set(CERTS.map((c) => c.provider))];
   orgFilter.innerHTML =
-    '<option value="">All Orgs</option>' +
+    '<option value="">All Organisations</option>' +
     orgs.map((o) => `<option value="${o}">${o}</option>`).join("");
 }
 
@@ -354,6 +353,10 @@ document.addEventListener("keydown", function (e) {
     modal.style.display = "none";
   }
 });
+
+// Set default theme to light (day theme)
+document.body.classList.add("light");
+themeToggle.textContent = "🌞";
 
 // Theme toggle
 themeToggle.onclick = () => {
