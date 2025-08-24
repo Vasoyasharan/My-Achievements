@@ -1,46 +1,45 @@
-# Certificates Site
+# My Certificates & Badges
 
-This project is a static website designed to showcase all collected certificates. The site is hosted on GitHub, allowing easy access to your certificates from anywhere.
+A personal portfolio site to showcase all my collected certificates and achievements.  
+Built with HTML, CSS, and JavaScript. Responsive, accessible, and supports dark/light themes.
 
-## Project Structure
+## Features
+
+- Responsive design (works on mobile & desktop)
+- Dark/Light theme toggle
+- Search and filter by organization
+- "Load More" pagination for large collections
+- Modal view for certificates (click to enlarge, ESC to close)
+- Export/Import certificates as JSON
+- Accessible (keyboard navigation, ARIA labels)
+- Profile and About section
+
+## Usage
+
+1. **Add your certificates:**  
+   Edit `script.js` and add your certificate objects to the `CERTS` array.
+
+2. **Add images:**  
+   Place your certificate images in `assets/images/`.
+
+3. **Run locally:**  
+   Open `index.html` in your browser, or use a local server (e.g. VS Code Live Server).
+
+4. **Deploy:**  
+   Push to GitHub and enable GitHub Pages for free hosting.
+
+## Folder Structure
 
 ```
-certificates-site
-├── index.html          # Main HTML document for the site
-├── styles              # Folder containing CSS styles
-│   └── main.css        # Styles for the site
-├── assets              # Folder for storing certificate images
-│   └── certificates     # Images of collected certificates
-└── README.md           # Documentation for the project
+MY_CERTIFICATES/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   └── images/
+└── README.md
 ```
-
-## Getting Started
-
-To set up and host this site on GitHub, follow these steps:
-
-1. **Clone the Repository**: 
-   Clone this repository to your local machine using the following command:
-   ```
-   git clone https://github.com/yourusername/certificates-site.git
-   ```
-
-2. **Add Your Certificates**: 
-   Place your certificate images in the `assets/certificates` folder.
-
-3. **Customize the Site**: 
-   Edit the `index.html` file to add or modify the content as needed.
-
-4. **Style the Site**: 
-   Modify the `styles/main.css` file to change the appearance of the site.
-
-5. **Host on GitHub Pages**: 
-   - Push your changes to GitHub.
-   - Go to your repository settings on GitHub.
-   - Scroll down to the "GitHub Pages" section.
-   - Select the branch you want to use (usually `main`) and save.
-
-Your site will be available at `https://yourusername.github.io/certificates-site`.
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open source and free to use under the MIT License.
