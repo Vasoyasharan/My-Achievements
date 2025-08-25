@@ -41,6 +41,11 @@
           image: "./assets/images/mastercard_certificate.png",
         },
         {
+          title: "Network Analysis",
+          provider: "Security Blue Team",
+          image: "./assets/images/sbt_net_analysis.png",
+        },
+        {
           title: "Reliance CS Associate Certi Program",
           provider: "Reliance",
           image: "./assets/images/relaincecs.png",
