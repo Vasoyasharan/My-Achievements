@@ -71,6 +71,11 @@
           image: "./assets/images/udemy_email_security.jpg",
         },
         {
+          title: "DarkWeb Operations",
+          provider: "Security Blue Team",
+          image: "./assets/images/sbt_darkweb.png",
+        },
+        {
           title: "Command Injection",
           provider: "Udemy",
           image: "./assets/images/udemy_ethycal_hacking___command_injection.jpg",
